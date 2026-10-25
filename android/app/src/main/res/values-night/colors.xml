@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark splash background: matches the dark app surface so there is no
+         colour flash between the splash and the first Flutter frame. -->
+    <color name="kharcha_splash_bg">#0E0E10</color>
+    <color name="kharcha_green">#4B8762</color>
+</resources>

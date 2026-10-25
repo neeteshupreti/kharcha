@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Custom launch splash: the Kharcha logo with "खर्च" beneath it.
+     Shown from process start and automatically removed the moment the
+     Flutter engine draws its first frame, so it never outlasts app startup. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/kharcha_splash_bg" />
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/kharcha_splash" />
+    </item>
+</layer-list>

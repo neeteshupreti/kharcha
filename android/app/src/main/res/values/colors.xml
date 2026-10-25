@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Muted green sampled from kharcha.png, used for the splash screen text. -->
+    <color name="kharcha_green">#4B8762</color>
+    <!-- Background behind the splash logo + "खर्च" text. -->
+    <color name="kharcha_splash_bg">#FFFFFF</color>
+</resources>
