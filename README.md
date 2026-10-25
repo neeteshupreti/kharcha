@@ -1,7 +1,6 @@
 # Kharcha
 
-A calm, local-first expense and savings tracker for **Android**, **Linux**, and
-**Web**. No accounts, no backend, no analytics — everything is stored on the
+A calm, local-first expense and savings tracker for **Android**. No accounts, no backend, no analytics — everything is stored on the
 device.
 
 <img src="kharcha.png" alt="Kharcha screenshot" width="512" />
@@ -32,7 +31,6 @@ Requires [Flutter](https://docs.flutter.dev/get-started/install) 3.24 or newer
 ```sh
 flutter pub get
 flutter run -d chrome        # Web
-flutter run -d linux         # Linux desktop
 flutter run -d android       # Android (requires a connected device or emulator)
 ```
 
